@@ -1,2 +1,3 @@
-TwoSum
-AddTwoNumbers
+TwoSum - Easy
+AddTwoNumbers - Med
+LRU Cache - Med 

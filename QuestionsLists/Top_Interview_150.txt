@@ -1,0 +1,10 @@
+Array / String
+
+Merge Sorted Array - Easy
+Remove Element - Easy
+Remove Duplicates from Sorted Array 1 - Easy
+Remove Duplicates from Sorted Array 2 - Medium
+Majority Element - Easy
+Rotate Array - Medium
+Best Time to Buy and Sell Stock 1 - Easy
+Best Time to Buy and Sell Stock 2 - Medium

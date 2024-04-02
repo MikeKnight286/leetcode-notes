@@ -8,3 +8,7 @@ Majority Element - Easy
 Rotate Array - Medium
 Best Time to Buy and Sell Stock 1 - Easy
 Best Time to Buy and Sell Stock 2 - Medium
+
+Stack
+
+Valid Parentheses - Easy

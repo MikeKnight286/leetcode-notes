@@ -12,3 +12,8 @@ Best Time to Buy and Sell Stock 2 - Medium
 Stack
 
 Valid Parentheses - Easy
+
+Linked List
+
+Merge Two Sorted Lists - Easy
+Reverse Linked List II - Medium

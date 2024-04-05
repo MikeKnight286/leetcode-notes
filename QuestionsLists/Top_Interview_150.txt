@@ -17,3 +17,7 @@ Linked List
 
 Merge Two Sorted Lists - Easy
 Reverse Linked List II - Medium
+
+Binary Search
+
+Search a 2D Matrix - Medium

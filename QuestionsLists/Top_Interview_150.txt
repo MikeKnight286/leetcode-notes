@@ -8,6 +8,9 @@ Majority Element - Easy
 Rotate Array - Medium
 Best Time to Buy and Sell Stock 1 - Easy
 Best Time to Buy and Sell Stock 2 - Medium
+Jump Game - Medium
+Jump Game 2 - Medium
+H-Index - Medium
 
 Stack
 

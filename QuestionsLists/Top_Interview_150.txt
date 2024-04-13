@@ -13,6 +13,9 @@ Jump Game 2 - Medium
 H-Index - Medium
 Product of Array Except Self Index - Medium
 Gas Station - Medium
+Candy - Hard
+Trapping Rain Water - Hard
+RomantoInteger - Easy
 
 Stack
 

@@ -15,7 +15,14 @@ Product of Array Except Self Index - Medium
 Gas Station - Medium
 Candy - Hard
 Trapping Rain Water - Hard
-RomantoInteger - Easy
+Roman to Integer - Easy
+Interger to Roman - Medium
+Length of Last Word - Easy
+Longest Common Prefix - Easy
+Reverse Words in a String - Medium
+Zig Zag Conversion - Medium
+Find the Index of the First Occurence in a String - Easy
+Text Justification - Hard
 
 Stack
 

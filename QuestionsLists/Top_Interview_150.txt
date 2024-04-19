@@ -11,6 +11,7 @@ Best Time to Buy and Sell Stock 2 - Medium
 Jump Game - Medium
 Jump Game 2 - Medium
 H-Index - Medium
+Insert Delete Get Random O(1) - Medium
 Product of Array Except Self Index - Medium
 Gas Station - Medium
 Candy - Hard
@@ -23,6 +24,14 @@ Reverse Words in a String - Medium
 Zig Zag Conversion - Medium
 Find the Index of the First Occurence in a String - Easy
 Text Justification - Hard
+
+Two Pointers
+
+Valid Palindrome - Easy
+IsSubsequence - Easy
+Two Sum 2, Input Array is Sorted - Medium
+Container with most water - Medium
+3 Sum - Medium
 
 Stack
 

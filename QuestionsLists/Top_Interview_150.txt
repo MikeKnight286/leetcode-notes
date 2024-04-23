@@ -33,6 +33,21 @@ Two Sum 2, Input Array is Sorted - Medium
 Container with most water - Medium
 3 Sum - Medium
 
+Sliding Window
+
+Minimum Size Subarray Sum - Medium
+Longest Substring Without Repeating Characters - Medium
+Substring with Concatenation of All Words - Hard
+Minimum Window Substring - Hard
+
+Matrix
+
+Valid Sudoku - Medium
+Spiral Matrix - Medium
+Rotate Image - Medium
+Set Matrix Zeroes - Medium
+Game of Life - Medium
+
 Stack
 
 Valid Parentheses - Easy

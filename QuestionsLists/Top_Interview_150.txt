@@ -48,6 +48,16 @@ Rotate Image - Medium
 Set Matrix Zeroes - Medium
 Game of Life - Medium
 
+Hashmap
+
+Ransom Note - Easy
+Isomorphic Strings - Easy
+Word Pattern - Easy
+Valid Anagram - Easy
+Group Anagrams - Middle
+Two Sum - Easy
+Happy Number - Easy
+
 Stack
 
 Valid Parentheses - Easy

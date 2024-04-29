@@ -57,6 +57,16 @@ Valid Anagram - Easy
 Group Anagrams - Middle
 Two Sum - Easy
 Happy Number - Easy
+Contains Duplicate 2 - Easy
+Longest Consecutive Sequence - Medium
+
+
+Intervals
+
+Summary Ranges - Easy
+Merge Intervals - Medium
+Insert Interval - Medium
+Minimum Number of Arrows to Burst Balloons - Medium 
 
 Stack
 

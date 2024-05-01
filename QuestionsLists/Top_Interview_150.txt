@@ -71,6 +71,9 @@ Minimum Number of Arrows to Burst Balloons - Medium
 Stack
 
 Valid Parentheses - Easy
+Simplify Path - Medium
+Min Stack - Medium
+Evaluate Reverse Polish Notation - Medium
 
 Linked List
 

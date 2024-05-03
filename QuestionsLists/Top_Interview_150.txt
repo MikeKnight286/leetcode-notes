@@ -78,7 +78,10 @@ Basic Calculator - Hard
 
 Linked List
 
+Linked List Cycle - Easy
+Add Two Numbers - Medium
 Merge Two Sorted Lists - Easy
+Copy List with Random Pointer - Medium
 Reverse Linked List II - Medium
 
 Binary Search

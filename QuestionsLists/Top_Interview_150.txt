@@ -83,6 +83,9 @@ Add Two Numbers - Medium
 Merge Two Sorted Lists - Easy
 Copy List with Random Pointer - Medium
 Reverse Linked List II - Medium
+Reverse Nodes in k-Group - Hard
+Remove Nth Node From End of List - Medium
+
 
 Binary Search
 

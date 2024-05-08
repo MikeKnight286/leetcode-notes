@@ -85,6 +85,9 @@ Copy List with Random Pointer - Medium
 Reverse Linked List II - Medium
 Reverse Nodes in k-Group - Hard
 Remove Nth Node From End of List - Medium
+Remove Duplicates From Sorted List II - Medium
+Rotate List - Medium
+Partition List - Medium
 
 
 Binary Search

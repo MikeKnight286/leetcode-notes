@@ -88,7 +88,11 @@ Remove Nth Node From End of List - Medium
 Remove Duplicates From Sorted List II - Medium
 Rotate List - Medium
 Partition List - Medium
+LRU Cache - Medium
 
+Binary Tree General
+
+Maximum Depth of Binary Tree - Easy
 
 Binary Search
 
